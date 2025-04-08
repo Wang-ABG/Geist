@@ -25,7 +25,7 @@
   "bugs": {
     "url": "https://github.com/名字/项目仓库/issues"
   },
-  "homepage": "https://wang-abg.github.io/MYBLOG.github.io/",
+  "homepage": "https://wang-abg.github.io/doc",
   "engines": {
     "node": ">=8.10.0"
   },
